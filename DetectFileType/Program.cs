@@ -56,8 +56,7 @@ namespace DetectFileType
                 return "unknown/unknown";
             }
         }
-
-
+        
         public static string GetDefaultExtension(string mimeType)
         {
             string result;
